@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm a student developer passionate about Artificial Inteligence, & Data Science. I'm currently learning Gen A.I...
+
+**Skills:**
+- 💻 Languages: Python, Java
+- 🔧 Tools: VS Code, Git, Docker
+
+**Connect with me:**
+- 📫 How to reach me: ashmit.srivastavalko@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/ashmitsrivastava
 
 <!--
 **Ash-Myth1/Ash-Myth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
