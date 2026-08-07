@@ -52,5 +52,5 @@
 
 ---
 <p align="center">
-  <i>When I'm not pushing the limits of local LLMs on an RTX 5050, you can usually find me running point on the basketball court.</i>
+  <i>When I'm not pushing the limits of local AI, you can usually find me running point on the basketball court.</i>
 </p>
