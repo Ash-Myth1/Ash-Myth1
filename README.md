@@ -29,7 +29,7 @@
 | 🛒 [Magginos](https://magginos-app.vercel.app) | 🧠 [AIScholar](https://github.com/Ash-Myth1/AIScholar) | 🗳️ [kunga4green.me](https://kunga4green.me) |
 | :--- | :--- | :--- |
 | **Full-Stack E-Commerce PWA** | **Offline RAG Research Assistant** | **Student Election Campaign** |
-| Engineered for a private client (Lucky) to streamline late-night hostel food deliveries. Features secure payments, predictive inventory modeling, and NLP sentiment analysis. | Built a privacy-first Retrieval-Augmented Generation (RAG) assistant deployed locally. Features history-aware retrieval and metadata-anchored citations. | Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported a winning student election bid. |
+| Engineered a PWA to streamline late-night hostel food deliveries. Features secure payments, predictive inventory modeling, and NLP sentiment analysis. | Built a privacy-first Retrieval-Augmented Generation (RAG) assistant deployed locally. Features history-aware retrieval and metadata-anchored citations. | Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported a winning student election bid. |
 
 <br/>
 
