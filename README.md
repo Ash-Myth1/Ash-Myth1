@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Gradient Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Ashmit%20Srivastava&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header" />
+  <!-- Fixed Dynamic Gradient Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashmit%20Srivastava&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -44,7 +44,8 @@
 ## ✦ Credentials & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Myth1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Swapped to stable Demolab mirror to bypass Vercel rate limits -->
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Ash-Myth1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <details>
