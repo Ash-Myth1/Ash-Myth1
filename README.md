@@ -1,7 +1,7 @@
 <div align="center">
   
-  # ⚡ Ashmit Srivastava
-  ### B.Tech AI & Data Science | Full-Stack Developer
+  <h1>⚡ Ashmit Srivastava</h1>
+  <h3>B.Tech AI & Data Science | Full-Stack Developer</h3>
   
   <p align="center">
     Bridging intelligent backend architecture with seamless user experiences. Specializing in AI orchestration, local LLM deployments, and automated full-stack web applications.
@@ -16,36 +16,27 @@
 
 <br/>
 
-## 🛠️ Technical Arsenal
+## ✦ Technical Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,vercel,firebase,mysql,git,github" alt="Tech Stack" />
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## ✦ Featured Projects
 
-> **[Magginos](https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
-> Engineered for a private client (Lucky), this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
-
-> **[AIScholar](https://github.com/Ash-Myth1/AIScholar)** | *Offline RAG Research Assistant*
-> Engineered an offline, privacy-first Retrieval-Augmented Generation (RAG) assistant deployed fully locally. Implemented history-aware retrieval and metadata-anchored citations for verifiable AI interaction.
-
-> **[kunga4green.me](https://kunga4green.me)** | *Student Election Campaign Platform*
-> Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported and won a student election bid.
+| 🛒 [Magginos](https://magginos-app.vercel.app) | 🧠 [AIScholar](https://github.com/Ash-Myth1/AIScholar) | 🗳️ [kunga4green.me](https://kunga4green.me) |
+| :--- | :--- | :--- |
+| **Full-Stack E-Commerce PWA** | **Offline RAG Research Assistant** | **Student Election Campaign** |
+| Engineered for a private client (Lucky) to streamline late-night hostel food deliveries. Features secure payments, predictive inventory modeling, and NLP sentiment analysis. | Built a privacy-first Retrieval-Augmented Generation (RAG) assistant deployed locally. Features history-aware retrieval and metadata-anchored citations. | Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported a winning student election bid. |
 
 <br/>
 
-## 🏆 Certifications & Education
+## ✦ Credentials & Education
 
 <details>
-  <summary><b>Click to expand Credentials</b></summary>
+  <summary><b>View Verified Certifications</b></summary>
   
   <br/>
   
