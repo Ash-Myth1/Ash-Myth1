@@ -9,8 +9,8 @@
 
   <div>
     <a href="mailto:ashmit.srivastavalko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/ashmitsrivastava"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://ashmit.tech"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
   </div>
 </div>
 
@@ -31,20 +31,20 @@
 
 ## 🚀 Featured Projects
 
-> **[Magginos](#)** | *Full-Stack E-Commerce PWA*
+> **[Magginos](#https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
 > Engineered for a private client, this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
 
-> **[AIScholar](#)** | *Offline RAG Research Assistant*
+> **[AIScholar](#https://github.com/Ash-Myth1/AIScholar)** | *Offline RAG Research Assistant*
 > Engineered an offline, privacy-first Retrieval-Augmented Generation (RAG) assistant deployed fully locally. Implemented history-aware retrieval and metadata-anchored citations for verifiable AI interaction.
 
-> **[kunga4green.me](#)** | *Student Election Campaign Platform*
+> **[kunga4green.me](#https://kunga4green.me)** | *Student Election Campaign Platform*
 > Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported and won a student election bid.
 
 <br/>
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ash-Myth1&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
   
   <br/>
   
-  - **Oracle AI Database Certified Foundations Associate** (July 25, 2026)
+  - **Oracle AI Database Foundations** 
   - **Oracle Agentic AI Foundations**
   - **5-Day AI Agents: Intensive Vibe Coding Course** (Google x Kaggle)
   - **Foundations: Data, Data, Everywhere** (Google x Coursera)
