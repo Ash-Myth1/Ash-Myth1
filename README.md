@@ -32,7 +32,7 @@
 ## 🚀 Featured Projects
 
 > **[Magginos](https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
-> Engineered for a private client, this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
+> Engineered this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
 
 > **[AIScholar](https://github.com/Ash-Myth1/AIScholar)** | *Offline RAG Research Assistant*
 > Engineered an offline, privacy-first Retrieval-Augmented Generation (RAG) assistant deployed fully locally. Implemented history-aware retrieval and metadata-anchored citations for verifiable AI interaction.
@@ -43,9 +43,10 @@
 <br/>
 
 ## 📊 GitHub Analytics
-<div align="center">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ash-Myth1&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
+</p>
 
 <br/>
 
