@@ -31,13 +31,13 @@
 
 ## 🚀 Featured Projects
 
-> **[Magginos](#https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
+> **[Magginos](https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
 > Engineered for a private client, this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
 
-> **[AIScholar](#https://github.com/Ash-Myth1/AIScholar)** | *Offline RAG Research Assistant*
+> **[AIScholar](https://github.com/Ash-Myth1/AIScholar)** | *Offline RAG Research Assistant*
 > Engineered an offline, privacy-first Retrieval-Augmented Generation (RAG) assistant deployed fully locally. Implemented history-aware retrieval and metadata-anchored citations for verifiable AI interaction.
 
-> **[kunga4green.me](#https://kunga4green.me)** | *Student Election Campaign Platform*
+> **[kunga4green.me](https://kunga4green.me)** | *Student Election Campaign Platform*
 > Designed and deployed a responsive, high-traffic digital campaign platform that successfully supported and won a student election bid.
 
 <br/>
