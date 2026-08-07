@@ -1,34 +1,35 @@
 <div align="center">
-  <!-- Fixed Dynamic Gradient Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ashmit%20Srivastava&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header" />
-</div>
+  
+  # ⚡ Ashmit Srivastava
+  ### B.Tech AI & Data Science | Full-Stack Developer
+  
+  <p align="center">
+    Bridging intelligent backend architecture with seamless user experiences. Specializing in AI orchestration, local LLM deployments, and automated full-stack web applications.
+  </p>
 
-<div align="center">
-  <!-- Glowing Typing Text -->
-  <a href="https://ashmit.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Systems;Pushing+Local+LLMs+on+RTX+5050;Shipping+Full-Stack+PWAs" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
-  <!-- Minimalist Social Icons -->
-  <a href="mailto:ashmit.srivastavalko@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ashmitsrivastava"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://ashmit.tech"><img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" /></a>
+  <div>
+    <a href="mailto:ashmit.srivastavalko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/ashmitsrivastava"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://ashmit.tech"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  </div>
 </div>
 
 <br/>
 
-## ✦ Technical Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <!-- Modern Floating Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=py,ts,react,vercel,firebase,mysql,git,github" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
 <br/>
 
-## ✦ Featured Projects
+## 🚀 Featured Projects
 
 > **[Magginos](https://magginos-app.vercel.app)** | *Full-Stack E-Commerce PWA*
 > Engineered for a private client (Lucky), this platform streamlines late-night hostel food deliveries. Features secure payment integration, predictive inventory modeling, and automated Vercel deployments. Enhanced daily operations using NLP-based sentiment analysis.
@@ -41,15 +42,10 @@
 
 <br/>
 
-## ✦ Credentials & Analytics
-
-<div align="center">
-  <!-- Swapped to stable Demolab mirror to bypass Vercel rate limits -->
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Ash-Myth1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+## 🏆 Certifications & Education
 
 <details>
-  <summary><b>View Verified Certifications</b></summary>
+  <summary><b>Click to expand Credentials</b></summary>
   
   <br/>
   
@@ -65,5 +61,5 @@
 
 ---
 <p align="center">
-  <i>When I'm not pushing the limits of local AI, you can usually find me running point on the basketball court.</i>
+  <i>When I'm not pushing the limits of local LLMs on an RTX 5050, you can usually find me running point on the basketball court.</i>
 </p>
